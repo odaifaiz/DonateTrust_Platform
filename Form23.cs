@@ -25,7 +25,7 @@ namespace SPF
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            //Let's Add the Dunctionality to Search the Donors
+            //Let's Add the Dunctionality to Search the Donor
 
             //1. Get the Keywords Typed on the Search TExt Box
             string keywords = textBox1.Text;
